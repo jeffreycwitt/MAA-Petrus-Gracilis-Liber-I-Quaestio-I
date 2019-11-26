@@ -5,7 +5,7 @@ The files in this repository contain the data for a critical edition of the firs
 The Scholastic Commentaries and Texts Archive provides an environment for reading and interacting with the data at <http://scta.lombardpress.org/text/pg-b1q1>.
 
 ## Publication Details
-The files are encoded according to the [schema](http://lombardpress.org/schema/docs/index) maintained by the [LombardPress](http://lombardpress.org/) a partner project of the Digital Latin Library.
+The files are encoded according to the [schema](http://lombardpress.org/schema/docs/index) maintained by the [LombardPress](http://lombardpress.org/), a partner project of the Digital Latin Library.
 
 This edition is published under the authority of [The University of Oklahoma](http://www.ou.edu/) by the [Digital Latin Library](https://digitallatin.org) as part of its *Library of Digital Latin Texts*. Independent peer review of the edition was performed under the auspices of the [Medieval Academy of America](https://www.medievalacademy.org/), as the "MAA | Gold" badge below attests.
 
